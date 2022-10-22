@@ -1,3 +1,5 @@
+Started working for the second version of this. So making this copy repo to just as the first version of the app.
+
 # Gaussian Eliminator
 This is an equation solver created by me from scratch. 
 This uses Gaussian Elimination to find the solution to a 
